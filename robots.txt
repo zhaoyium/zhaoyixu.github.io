@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhaoyixu.github.io/sitemap.xml
+Sitemap: https://zhaoyium.github.io/sitemap.xml
